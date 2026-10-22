@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.hins.one/index.html</loc>
-    <lastmod>2025-07-18</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://www.hins.one/old</loc>
@@ -31,5 +31,11 @@
     <url>
     <loc>https://www.hins.one/demo/ams</loc>
     <lastmod>2025-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://services.hins.one/</loc>
+    <lastmod>2026-10-22T10:25:18.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
