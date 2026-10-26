@@ -38,4 +38,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://services.hins.one/newsroom</loc>
+    <lastmod>2026-10-26T01:25:38+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://services.hins.one/newsroom/hinson-web-services-domain-change-notice</loc>
+    <lastmod>2026-10-26T01:25:38+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
